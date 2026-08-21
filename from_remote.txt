@@ -1,0 +1,1 @@
+This is a new file from remote and want to take it from remote to your local machine.
