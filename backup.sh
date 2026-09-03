@@ -16,4 +16,4 @@ zip -r "$dest/backup-$timestamp.zip" $src > /dev/null
 
 aws s3 sync "$dest" s3://tws-backups-dev1
 
-echo "========Backup Done at s3 bucket ===================="
+echo "========Backup Done at s3 bucket successfully ===================="
